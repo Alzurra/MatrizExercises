@@ -1,0 +1,13 @@
+1. Leia uma matriz 4 x 4, conte e escreva quantos valores maiores que 10 ela possui.
+
+2. Declare uma matriz 5 x 5. Preencha com 1 a diagonal principal e com 0 os demais elementos. 
+Escreva ao final a matriz obtida.
+
+3. Faça um programa que preenche uma matriz 4 x 4 com o produto
+do valor da linha e da coluna de cada elemento. Em seguida, imprima na tela a matriz.
+ 
+4. Leia duas matrizes 4 x 4 e 
+escreva uma terceira com os maiores valores de cada posição das matrizes lidas.
+
+5. Leia uma matriz de 3 x 3 elementos. 
+Calcule a soma dos elementos que estão na diagonal principal.
